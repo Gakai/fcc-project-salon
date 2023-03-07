@@ -1,2 +1,9 @@
+examples.txt
+.freeCodeCamp/
+learn-salon-appointment-scheduler/
+.vscode/
+*.sh
+!salon.sh
+
 node_modules
 .DS_Store
